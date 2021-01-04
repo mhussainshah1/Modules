@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modules.iml" filepath="$PROJECT_DIR$/Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bad.module/bad.module.iml" filepath="$PROJECT_DIR$/bad.module/bad.module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo.animal.care/zoo.animal.care.iml" filepath="$PROJECT_DIR$/zoo.animal.care/zoo.animal.care.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo.animal.feeding/zoo.animal.feeding.iml" filepath="$PROJECT_DIR$/zoo.animal.feeding/zoo.animal.feeding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo.animal.talks/zoo.animal.talks.iml" filepath="$PROJECT_DIR$/zoo.animal.talks/zoo.animal.talks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoo.staff/zoo.staff.iml" filepath="$PROJECT_DIR$/zoo.staff/zoo.staff.iml" />
+    </modules>
+  </component>
+</project>

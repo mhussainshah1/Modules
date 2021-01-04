@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>MODULES</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="94.0" y="222.0">mdl-bad.module</node>
+    <node x="30.75" y="148.0">mdl-zoo.animal.talks</node>
+    <node x="31.75" y="74.0">mdl-zoo.animal.care</node>
+    <node x="0.0" y="222.0">mdl-zoo.staff</node>
+    <node x="22.25" y="0.0">mdl-zoo.animal.feeding</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="mdl-zoo.animal.care" target="mdl-zoo.animal.feeding">
+      <point x="0.0" y="-12.0" />
+      <point x="0.0" y="12.0" />
+    </edge>
+    <edge source="mdl-bad.module" target="mdl-zoo.animal.talks">
+      <point x="0.0" y="-12.0" />
+      <point x="140.5" y="197.0" />
+      <point x="117.75" y="197.0" />
+      <point x="29.0" y="12.0" />
+    </edge>
+    <edge source="mdl-zoo.animal.talks" target="mdl-zoo.animal.care">
+      <point x="0.0" y="-12.0" />
+      <point x="0.0" y="12.0" />
+    </edge>
+    <edge source="mdl-zoo.staff" target="mdl-zoo.animal.talks">
+      <point x="0.0" y="-12.0" />
+      <point x="37.0" y="197.0" />
+      <point x="59.75" y="197.0" />
+      <point x="-29.0" y="12.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="93.5" y="123.0" />
+  <SelectedNodes>
+    <node>mdl-zoo.animal.feeding</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Borderless View</Category>
+    <Category>Show Paths: Root -&gt; Selection</Category>
+  </Categories>
+</Diagram>
+
